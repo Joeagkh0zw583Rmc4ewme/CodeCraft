@@ -1,2 +1,3 @@
 # CodeCraftCodeCraftIntroduction
 AlgorithmOverview
+InstallationGuide
