@@ -3,3 +3,4 @@ AlgorithmOverview
 InstallationGuide
 DataStructures
 DependenciesList
+UsageExamples
