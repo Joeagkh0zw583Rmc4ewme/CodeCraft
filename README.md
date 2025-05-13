@@ -4,3 +4,4 @@ InstallationGuide
 DataStructures
 DependenciesList
 UsageExamples
+ConfigurationOptions
