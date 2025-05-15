@@ -5,3 +5,4 @@ DataStructures
 DependenciesList
 UsageExamples
 ConfigurationOptions
+ContributionGuide
