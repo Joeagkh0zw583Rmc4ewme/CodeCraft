@@ -6,3 +6,4 @@ DependenciesList
 UsageExamples
 ConfigurationOptions
 ContributionGuide
+PerformanceAnalysis
