@@ -7,3 +7,4 @@ UsageExamples
 ConfigurationOptions
 ContributionGuide
 PerformanceAnalysis
+LicenseDetails
