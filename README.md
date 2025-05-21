@@ -8,3 +8,4 @@ ConfigurationOptions
 ContributionGuide
 PerformanceAnalysis
 LicenseDetails
+CommonQuestions
