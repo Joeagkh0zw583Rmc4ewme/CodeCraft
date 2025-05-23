@@ -9,3 +9,4 @@ ContributionGuide
 PerformanceAnalysis
 LicenseDetails
 CommonQuestions
+Changelog
