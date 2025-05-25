@@ -10,3 +10,4 @@ PerformanceAnalysis
 LicenseDetails
 CommonQuestions
 Changelog
+TestingInstructions
