@@ -11,3 +11,4 @@ LicenseDetails
 CommonQuestions
 Changelog
 TestingInstructions
+OptimizationTips
