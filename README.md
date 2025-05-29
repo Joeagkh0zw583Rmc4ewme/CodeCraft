@@ -12,3 +12,4 @@ CommonQuestions
 Changelog
 TestingInstructions
 OptimizationTips
+CommunitySupport
